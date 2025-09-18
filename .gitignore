@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS noise
+.DS_Store
+.AppleDouble
+
+# Local backups and large datasets
+DriveBackups/
+
+# OAuth credentials and tokens
+credentials.json
+token.json
+
+# Logs and temp files
+*.log
+.tmp/
